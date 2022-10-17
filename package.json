@@ -8,6 +8,12 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "dependencies": {
+    "@ui5/webcomponents": "^1.7.1",
+    "@ui5/webcomponents-base": "^1.7.1",
+    "@ui5/webcomponents-fiori": "^1.7.1",
+    "@ui5/webcomponents-icons": "^1.7.1"
+  },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.2",
     "svelte": "^3.49.0",
